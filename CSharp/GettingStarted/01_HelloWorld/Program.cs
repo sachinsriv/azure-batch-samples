@@ -11,6 +11,7 @@ namespace Microsoft.Azure.Batch.Samples.HelloWorld
     using Common;
     using Microsoft.Extensions.Configuration;
 
+    /// <sachin>
     /// <summary>
     /// The main program of the HelloWorld sample
     /// </summary>
